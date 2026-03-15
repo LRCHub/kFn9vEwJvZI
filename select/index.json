@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ダークルーム",
+  "base_artist": "Dios",
+  "createdAt": "2026-03-15T17:28:19.385894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダークルーム",
+      "artist": "Dios",
+      "has_synced": true,
+      "path": "select/01_ダークルーム_Dios.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダークルーム",
+      "artist": "Dios",
+      "has_synced": false,
+      "path": "select/pl_01_ダークルーム_Dios.txt"
+    }
+  ]
+}
